@@ -20,6 +20,7 @@
 ![Node.JS](https://img.shields.io/badge/-node.js-85fb66?logo=node.js&logoColor=black&style=for-the-badge)
 ![Express.JS](https://img.shields.io/badge/-express.js-404d59?logo=express&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-00758f?logo=mysql&logoColor=white&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-firebase-ffcb2e?logo=firebase&logoColor=black&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-supabase-42d291?logo=supabase&logoColor=white&style=for-the-badge)
 ![BitBucket](https://img.shields.io/badge/-bitbucket-2684ff?logo=bitbucket&logoColor=white&style=for-the-badge)
@@ -28,6 +29,7 @@
 ![Jira](https://img.shields.io/badge/-jira-2684ff?logo=jira&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-vscode-0086d1?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/-discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Ko-Fi](https://img.shields.io/badge/-kofi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge)
 
 <!--
