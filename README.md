@@ -18,6 +18,7 @@
 ![JSON](https://img.shields.io/badge/-json-5E5C5C?logo=json&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-38bdf8?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Node.JS](https://img.shields.io/badge/-node.js-85fb66?logo=node.js&logoColor=black&style=for-the-badge)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/-express.js-404d59?logo=express&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-00758f?logo=mysql&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
