@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 Working on Ash (not public yet)
-- 🌱 Learning: **Astro**
+- 🌱 Learning: **Nuxt**
 - 📫 How to reach me: *thakrejzy* on [Discord](https://discord.com)
 - ⚡ Fun fact: **rarely sleeps 💤**
 
